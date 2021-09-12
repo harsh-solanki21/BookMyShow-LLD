@@ -19,3 +19,18 @@
 
 
 # Use-Case Diagram
+![Use Case Diagram](https://user-images.githubusercontent.com/52111635/132999378-6f126c93-9310-4281-ba48-d84fb38345c3.png)
+
+# Class Diagram
+![Class Diagram](https://user-images.githubusercontent.com/52111635/132999387-11830a47-4d69-48a7-84ef-cdd3c3ba793a.png)
+
+# Program Output
+{Iron Man=[Show{id=1, showTime=Sun Jun 07 09:00:00 IST 2020, movie=Iron Man, theater=PVR, availableSeats=30}], The Walk To Remember=[Show{id=3, showTime=Sun Jun 07 09:00:00 IST 2020, movie=The Walk To Remember, theater=Big Cinema, availableSeats=40}, Show{id=4, showTime=Sun Jun 07 12:00:00 IST 2020, movie=The Walk To Remember, theater=Big Cinema, availableSeats=40}], Hera Pheri=[Show{id=2, showTime=Sun Jun 07 12:00:00 IST 2020, movie=Hera Pheri, theater=PVR, availableSeats=30}]}
+Successfully booked
+Successfully booked
+Ticket{owner='Nisarg', bookingTime=Mon Sep 13 00:25:11 IST 2021, numberOfSeats=10, bookedShow=Show{id=3, showTime=Sun Jun 07 09:00:00 IST 2020, movie=The Walk To Remember, theater=Big Cinema, availableSeats=20}}
+Ticket{owner='Dhruva', bookingTime=Mon Sep 13 00:25:11 IST 2021, numberOfSeats=10, bookedShow=Show{id=3, showTime=Sun Jun 07 09:00:00 IST 2020, movie=The Walk To Remember, theater=Big Cinema, availableSeats=20}}
+Successfully booked
+Seats not Available
+Ticket{owner='Nisarg', bookingTime=Mon Sep 13 00:25:11 IST 2021, numberOfSeats=15, bookedShow=Show{id=3, showTime=Sun Jun 07 09:00:00 IST 2020, movie=The Walk To Remember, theater=Big Cinema, availableSeats=5}}
+null
