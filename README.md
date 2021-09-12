@@ -34,4 +34,3 @@ Successfully booked <br>
 Seats not Available <br>
 Ticket{owner='Nisarg', bookingTime=Mon Sep 13 00:25:11 IST 2021, numberOfSeats=15, bookedShow=Show{id=3, showTime=Sun Jun 07 09:00:00 IST 2020, movie=The Walk To Remember, theater=Big Cinema, availableSeats=5}} <br>
 null <br>
- <br>
